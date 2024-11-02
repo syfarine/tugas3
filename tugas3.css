@@ -1,0 +1,71 @@
+body {
+    background: url(images/bg.jpeg);
+}
+#tampilan{
+	background-color: rgba(255, 249, 218, 0.7);
+	width: 1200px;
+	height: 2600px;
+	margin: auto;
+	padding: 5px;
+}
+#header{
+	background-color: black;
+	height: 200px;
+	width: 1200px;
+	overflow: hidden;
+}
+#teks{
+	background-color: maroon;
+	height: 20px;
+	width: 1194.3px;
+	overflow: hidden;
+	border-style: ridge;
+	border-color: white;
+}
+#menu {
+	background: grey;
+	height: 20px;
+	width: 1200px;
+}
+#kiri {
+	background: #FFF7F1;
+	height: 2180px;
+	width: 880px;
+	float: left;
+	border-style: groove;
+	border-color: #31511E;
+
+}
+#kanan {
+	background: maroon;
+	height: 2180px;
+	width: 305px;
+	float: right;
+	border-style: groove;
+	border-color: #31511E;
+}
+#h2 {
+	font-family: sans-serif; 
+	color: black; 
+	text-align: left; 
+	margin-left: 20px;
+	text-decoration-line: underline; 
+	text-decoration-color: black;
+}
+#h3 {
+	font-family: sans-serif; 
+	color: white; 
+	text-align: center; 
+}
+#p {
+	text-align: justify;
+	font-family: sans-serif;
+	color: maroon;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#h4 {
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
